@@ -1,5 +1,5 @@
-# calculo_potencia-ruby
-# Ruby
+# calculo_potencia_ruby
+
 Desafio do Bootcamp "Ruby Developer da DIO" - Cálculo com potencia em Ruby.
 
 Objetivo Geral:
